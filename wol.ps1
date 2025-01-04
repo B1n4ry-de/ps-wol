@@ -38,4 +38,4 @@ function Send-WOL {
 
 
 # Example usage
-Send-WOL -MacAddress "40:A8:F0:5D:4F:A4"
+Send-WOL -MacAddress "40:A8:F0:6F:4F:AA"
